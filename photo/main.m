@@ -1,8 +1,8 @@
 //
 //  main.m
-//  photoDemo
+//  photo
 //
-//  Created by 雷建民 on 17/1/8.
+//  Created by 雷建民 on 17/1/11.
 //  Copyright © 2017年 雷建民. All rights reserved.
 //
 
